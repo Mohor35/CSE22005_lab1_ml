@@ -1,1 +1,1 @@
-# CSE22005_lab1_ml
+This repository contains lab assignments for Machine Learning 
